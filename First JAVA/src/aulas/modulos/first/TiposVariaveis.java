@@ -13,6 +13,7 @@ public class TiposVariaveis {
         short ano = 2024;
         byte idade2 = 123;
         long cpf = 12345678900L;
+        char letra = 'L'; 
         */
 
         /* 
