@@ -1,0 +1,55 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "AboutMe",
+            "request": "launch",
+            "mainClass": "aulas.modulos.basico.AboutMe",
+            "projectName": "First JAVA_4bc7818d",
+            "args": [
+                "Leonardo",
+                "Abreu",
+                "21",
+                "1.73"
+            ]
+        },
+        {
+            "type": "java",
+            "name": "BoletimEstudantil",
+            "request": "launch",
+            "mainClass": "aulas.modulos.basico.BoletimEstudantil",
+            "projectName": "First JAVA_4bc7818d"
+        },
+        {
+            "type": "java",
+            "name": "Operadores",
+            "request": "launch",
+            "mainClass": "aulas.modulos.basico.Operadores",
+            "projectName": "First JAVA_4bc7818d"
+        },
+        {
+            "type": "java",
+            "name": "TiposVariaveis",
+            "request": "launch",
+            "mainClass": "aulas.modulos.basico.TiposVariaveis",
+            "projectName": "First JAVA_4bc7818d"
+        },
+        {
+            "type": "java",
+            "name": "Usuario",
+            "request": "launch",
+            "mainClass": "aulas.modulos.basico.Usuario",
+            "projectName": "First JAVA_4bc7818d"
+        }
+    ]
+}

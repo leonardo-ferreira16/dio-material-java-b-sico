@@ -1,4 +1,4 @@
-package aulas.modulos.first;
+package aulas.modulos.basico;
 
 public class BoletimEstudantil {
     public static void main(String [] args){
