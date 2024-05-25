@@ -3,7 +3,6 @@ package aulas.modulos.basico;
 public class Usuario {
     public static void main(String[] args) throws Exception {
         SmartTV smartTV = new SmartTV();
-
         System.out.println("TV ligada: " + smartTV.ligada);
         System.out.println("Canal: " + smartTV.canal);
         System.out.println("Volume atual: " + smartTV.volume);
