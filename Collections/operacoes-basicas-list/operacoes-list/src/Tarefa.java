@@ -1,6 +1,6 @@
 
 
-public class Tarefa implements Comparable<Tarefa> {
+public class Tarefa {
     private String descricao;
 
     public Tarefa(String descricao){
@@ -14,9 +14,5 @@ public class Tarefa implements Comparable<Tarefa> {
     @Override
     public String toString(){
         return descricao;
-    }
-
-    public int compareTo(Tarefa t1){
-        return descricao.compareTo(t1.descricao);
     }
 }
